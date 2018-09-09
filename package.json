@@ -1,0 +1,9 @@
+{
+  "name": "flag-io",
+  "version": "0.0.0",
+  "description": "FlagIO",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
