@@ -1,0 +1,12 @@
+{
+  "name": "flag-io",
+  "version": "0.0.0",
+  "description": "FlagIO",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "socket.io": "^2.1.1"
+  }
+}

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2019
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "FlagIO", "FlagIO\FlagIO.njsproj", "{C2D199AE-63E7-4B45-92C1-4497D62F9C4A}"
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Server", "Server\Server.njsproj", "{C2D199AE-63E7-4B45-92C1-4497D62F9C4A}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Client", "Client\Client.njsproj", "{6C83E5C7-2629-4474-BA6F-24A1683F0DB0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C2D199AE-63E7-4B45-92C1-4497D62F9C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2D199AE-63E7-4B45-92C1-4497D62F9C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2D199AE-63E7-4B45-92C1-4497D62F9C4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C83E5C7-2629-4474-BA6F-24A1683F0DB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C83E5C7-2629-4474-BA6F-24A1683F0DB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C83E5C7-2629-4474-BA6F-24A1683F0DB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C83E5C7-2629-4474-BA6F-24A1683F0DB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
